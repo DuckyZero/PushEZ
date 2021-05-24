@@ -55,6 +55,9 @@ Some of the future improvements/features I would add to this program are listed 
 * Made a .exe file for users to directly download and use the program without to much setup needed
 * Make the MediaPipe AI pose detection/tracking confidence more so it will focus on their body and not their surroundings, m,aking it more accurate.  
 
+## Citing:
+(add links / resources I used)
+
 ## Screenshots:
 (add more screenshots/gifs of the project)
 
