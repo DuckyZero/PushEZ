@@ -3,7 +3,7 @@ Pushup counter program to count and verbally annouce your push up repetition so 
 
 ## Why It Was Built:
 
-In the summer of 2020, a ton of people were stuck in lockdown and with nothing else to do people turned to exercising to help pass the time, relieve mental stress, and to better themselves physically. With all this exercising there will be repetition counting.... ew. Doing math while exercising is the last thing anyone wants to do, causing a lot of mental stress on a person. This results in you not putting in 100% into that workout. Until today that is! I as tired from all this arithmetic while wokring out and I planned to solve this issue with the power of programming! Look below for a quick preview:
+In the summer of 2020, a ton of people were stuck in lockdown and with nothing else to do people turned to exercising to help pass the time, relieve mental stress, and to better themselves physically. With all this exercising there will be repetition counting.... ew. Doing math while exercising is the last thing anyone wants to do, causing a lot of mental stress on a person. This results in you not putting in 100% into that workout. Until today that is! I was tired from all this arithmetic while wokring out and I planned to solve this issue with the power of programming! Look below for a quick preview:
 
 ![pushup_couter_github](https://user-images.githubusercontent.com/61894684/119556774-05b49780-bd65-11eb-99cb-c8818a47e912.gif)
 
