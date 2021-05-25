@@ -50,8 +50,6 @@ engine.runAndWait() caused a visual delay issue with the OpenCV webcam whenever 
 The second blockage was finding a framework to help assist with push-up detection. Before I found MediaPipe, I used OpenCV to do background subtraction to show white pixel outline of my body, which I could calculate the average of those pixels and then graph that data to form a nice sinusoidal curve where the peaks of those curves are a push up. However, the graph was very inaccurate (used MatPlotLib) and the peak identification algorithm I used did not identify all the peaks within the live graph. This made me wonder if there was an easier way, then I found MediaPipe pose estimation model which directly outlines shoulders, elbows, and wrist points on someones body, this mades calculating joint angles easier and I was able to finally code my project to the way I envisioned it to be.
 
 ## Future Improvements:
-(add what to do in the future, aka .exe file to run without major file downloads, input boxes for pushup angles, etc.)
-
 Some of the future improvements/features I would add to this program are listed below:
 * Add an input system for the user to add their custom up/down push up position coordinates
 * Made a .exe file for users to directly download and use the program without to much setup needed
