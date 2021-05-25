@@ -53,7 +53,7 @@ The second blockage was finding a framework to help assist with push-up detectio
 Some of the future improvements/features I would add to this program are listed below:
 * Add an input system for the user to add their custom up/down push up position coordinates
 * Made a .exe file for users to directly download and use the program without to much setup needed
-* Make the MediaPipe AI pose detection/tracking confidence more so it will focus on their body and not their surroundings, m,aking it more accurate.  
+* Make the MediaPipe AI pose detection/tracking confidence more so it will focus on their body and not their surroundings, making it more accurate.  
 
 ## Video With Audio:
 https://user-images.githubusercontent.com/61894684/119557227-85dafd00-bd65-11eb-903b-704685990eda.mp4
