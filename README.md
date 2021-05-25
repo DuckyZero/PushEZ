@@ -5,7 +5,9 @@ Pushup counter program to count and verbally annouce your push up repetition so 
 
 In the summer of 2020, a ton of people were stuck in lockdown and with nothing else to do people turned to exercising to help pass the time, relieve mental stress, and to better themselves physically. With all this exercising there will be repetition counting.... ew. Doing math while exercising is the last thing anyone wants to do, causing a lot of mental stress on a person. This results in you not putting in 100% into that workout. Until today that is! I as tired from all this arithmetic while wokring out and I planned to solve this issue with the power of programming! Look below for a quick preview:
 
-(Put GIF/Short video here)
+![pushup_couter_github](https://user-images.githubusercontent.com/61894684/119556774-05b49780-bd65-11eb-99cb-c8818a47e912.gif)
+
+[View video with audio click this!](#video-with-audio)
 
 ## How It Was Built:
 
@@ -55,9 +57,11 @@ Some of the future improvements/features I would add to this program are listed 
 * Made a .exe file for users to directly download and use the program without to much setup needed
 * Make the MediaPipe AI pose detection/tracking confidence more so it will focus on their body and not their surroundings, m,aking it more accurate.  
 
-## Citing:
-(add links / resources I used)
+## Video With Audio:
+https://user-images.githubusercontent.com/61894684/119557227-85dafd00-bd65-11eb-903b-704685990eda.mp4
 
-## Screenshots:
-(add more screenshots/gifs of the project)
+## Citing:
+* Calculating angle formula I modified to fit numpy: https://manivannan-ai.medium.com/find-the-angle-between-three-points-from-2d-using-python-348c513e2cd
+* AI pose estimation documentation: https://google.github.io/mediapipe/solutions/pose.html
+* Text-to-speech engine documentation: https://pyttsx3.readthedocs.io/en/latest/engine.html
 
