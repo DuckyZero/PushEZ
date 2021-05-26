@@ -1,7 +1,7 @@
 # Author: Christopher Rossi
 # Project Name: PushEZ - Pushup Counter
 # Start Date: 5/2/2021
-# End Date: Ongoing
+# End Date: 5/24/2021
 
 # Import dependencies
 import cv2 as cv
@@ -9,7 +9,7 @@ import mediapipe as mp
 import numpy as np
 import csv
 
-# Variable Setup
+# Variable setup
 mp_drawing = mp.solutions.drawing_utils
 mp_pose = mp.solutions.pose
 counter = 0
@@ -34,6 +34,7 @@ def calculate_angle(first, mid, end):
     # end[1] - mid[1] --> Subtracting y values from endpoint to mid
     # end[0] - mid[0] --> Subtracting x values from end to mid
     radians = np.arctan2(end[1] - mid[1], end[0] - mid[0]) - np.arctan2(first[1] - mid[1], end[0] - first[0])
+    
     # Calculates 360 degree angle
     angle = np.abs(radians * 180.0 / np.pi)
 
