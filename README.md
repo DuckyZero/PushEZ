@@ -1,16 +1,6 @@
 # PushEZ
 Pushup counter program to count and verbally annouce your push up repetition so you don't have to! This was built using a pre-built AI pose estimation model, object detection, and a python text-to-speech engine.
 
-## Why It Was Built:
-
-In the summer of 2020, a ton of people were stuck in lockdown and with nothing else to do people turned to exercising to help pass the time, relieve mental stress, and to better themselves physically. With all this exercising there will be repetition counting.... ew. Doing math while exercising is the last thing anyone wants to do, causing a lot of mental stress on a person. This results in you not putting in 100% into that workout. Until today that is! I was tired from all this arithmetic while working out and I planned to solve this issue with the power of programming!
-
-The program I made outlines your major body positions and I take your shoulder, elbow and wrist positions to calculate the angle between them enabling me to identify up/down position and weather a push up has been done or not based on that angle. Look below for a quick preview:
-
-![pushup_couter_github](https://user-images.githubusercontent.com/61894684/119556774-05b49780-bd65-11eb-99cb-c8818a47e912.gif)
-
-[View video with audio click this!](#video-with-audio)
-
 ## How It Was Built:
 
 This program was made with the programming language Python along with a few frameworks such as OpenCV for real-time computer vision, MediaPipe a pre-built AI pose estimation model and Pyttsx3 a text-to-speech engine. The full list of languages & frameworks are listed below:
@@ -21,6 +11,16 @@ This program was made with the programming language Python along with a few fram
 * Pyttsx3
 * Numpy
 * CSV
+
+## Why It Was Built:
+
+In the summer of 2020, a ton of people were stuck in lockdown and with nothing else to do people turned to exercising to help pass the time, relieve mental stress, and to better themselves physically. With all this exercising there will be repetition counting.... ew. Doing math while exercising is the last thing anyone wants to do, causing a lot of mental stress on a person. This results in you not putting in 100% into that workout. Until today that is! I was tired from all this arithmetic while working out and I planned to solve this issue with the power of programming!
+
+The program I made outlines your major body positions and I take your shoulder, elbow and wrist positions to calculate the angle between them enabling me to identify up/down position and weather a push up has been done or not based on that angle. Look below for a quick preview:
+
+![pushup_couter_github](https://user-images.githubusercontent.com/61894684/119556774-05b49780-bd65-11eb-99cb-c8818a47e912.gif)
+
+[View video with audio click this!](#video-with-audio)
 
 ## Use it yourself!
 
