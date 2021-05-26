@@ -2,6 +2,8 @@
 # Project Name: PushEZ - Pushup Counter
 # Start Date: 5/2/2021
 # End Date: 5/24/2021
+# Description: This program is designed to count push ups based on the angle created between three body points using opencv, mediapipe, and numpy as the major frameworks
+#              to help make it happen.
 
 # Import dependencies
 import cv2 as cv
