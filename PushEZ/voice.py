@@ -1,9 +1,8 @@
 # Author: Christopher Rossi
 # Project Name: PushEZ - Push up Counter
 # Start Date: 5/2/2021
-# End Date: Ongoing
-# Description: Verbal push up counter program which was designed to by-pass engine.runAndWait() lag with opencv
-#              webcam display.
+# End Date: 5/24/2021
+# Description: Verbal push up counter program which was designed to by-pass engine.runAndWait() lag with opencv webcam display.
 
 # Import dependencies
 from csv import reader
@@ -14,7 +13,7 @@ engine = pyttsx3.init()
 num = []
 curr = None
 
-# Chance text-to-speech voice
+# Change text-to-speech voice
 voices = engine.getProperty('voices')
 engine.setProperty('voice', voices[1].id)
 
