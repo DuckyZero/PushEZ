@@ -1,5 +1,5 @@
 # PushEZ
-Pushup counter program to count and verbally annouce your push up repetition so you don't have to! This was built using a pre-built AI pose estimation model, object detection, and a python text-to-speech engine.
+Pushup counter program to count and verbally announce your push up repetition so you don't have to! This was built using a pre-built AI pose estimation model, object detection, and a python text-to-speech engine.
 
 ## How It Was Built:
 
